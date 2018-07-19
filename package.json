@@ -14,9 +14,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@mdi/font": "^2.5.94",
     "bootstrap": "^4.1.1",
     "jquery": "^3.3.1",
-    "popper.js": "^1.14.3"
+    "popper.js": "^1.14.3",
+    "tiny-slider": "^2.8.1"
   },
   "devDependencies": {
     "autoprefixer": "^8.6.2",
